@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Daniel Wanjama"
   avatar : "/assets/images/danielwanjama.jpg"
-  bio    : | "Cloud security practitioner with a focus on identity management, compliance frameworks, and Zero Trust architecture. 
+  bio    : "Cloud security practitioner with a focus on identity management, compliance frameworks, and Zero Trust architecture. 
   "Dedicated to advancing knowledge of Microsoft Entra ID and Azure security through practical experience and continuous learning."
   links:
     - label: "Website"
