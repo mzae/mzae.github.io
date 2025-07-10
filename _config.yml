@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Daniel Wanjama"
   avatar : "/assets/images/danielwanjama.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : | "Cloud security practitioner with a focus on identity management, compliance frameworks, and Zero Trust architecture. 
+  "Dedicated to advancing knowledge of Microsoft Entra ID and Azure security through practical experience and continuous learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
