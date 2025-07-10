@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Certifications"
+permalink: /certifications/
 layout: tags
 author_profile: true
 ---
